@@ -1,0 +1,19 @@
+[
+{
+    "name": "HOU Junhui",
+    "email": "jh.hou@cityu.edu.hk",
+    "education": [
+        "BEng SCUT, MEng NPU, PhD NTU"
+    ],
+    "position": [
+        "Assistant Professor,"
+    ],
+    "research interest": [
+        "Image/Video Representations and Analysis (RGB/Depth/Light Field/Hyperspectral)",
+        "Static/Dynamic 3D Geometry Representations and Processing (Mesh/Point Cloud/MoCap)",
+        "Semi-supervised/unsupervised data modeling",
+        "Data compression and adaptive transmission"
+    ],
+    "image": "https://www.cityu.edu.hk/sites/g/files/asqsls3821/files/styles/crop_scholar_list_103_122/public/scholar/JHHOU_9.jpg?itok=6jEzfRzB"
+}
+]

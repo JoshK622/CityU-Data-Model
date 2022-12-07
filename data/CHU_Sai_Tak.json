@@ -1,0 +1,21 @@
+[
+{
+    "name": "CHU Sai Tak",
+    "email": "saitchu@cityu.edu.hk",
+    "education": [
+        "MSc PhD University of Waterloo, Canada\nBSc Wilfrid Laurier University, Canada"
+    ],
+    "position": [
+        "Professor,"
+    ],
+    "research interest": [
+        "- Integrated Photonic Devices",
+        "Development of high-index-contrast planar lightwave circuits to densely integrate photonic signal processing components onto a single, robust solid-state chip for photonics and RF applications.",
+        "- Biophotonics",
+        "Development of portable system that is highly sensitive, real time, in-situ, has label- and reagent-free transduction,and is capable of multiplexed measurements.   ",
+        "- Terahertz Technologies",
+        "Development of CMOS compatible platform technology for the fabrication of terahertz integrated circuit and sub-systems for molecular spectroscopy, imaging, detection and sensing of chemical and biological materials."
+    ],
+    "image": "https://www.cityu.edu.hk/sites/g/files/asqsls3821/files/styles/crop_scholar_list_103_122/public/scholar/15_AP_CHU_Sai_Tak_Photo_67.jpg?itok=JUixC3Pm"
+}
+]
