@@ -12,5 +12,5 @@ filenames = os.listdir(
 print(filenames)
 for filename in filenames:
     os.system(
-            'mongoimport --host localhost --port 27017 --collection ' + collection_name+ '--db ' + db_name + ' --jsonArray ./data/'+filename) 
+        'mongoimport --host localhost --port 27017 --collection ' + collection_name + ' --db ' + db_name + ' --jsonArray ./data/'+filename)
 client.close()
